@@ -3,4 +3,5 @@ git status
 git add .
 git commit -m
 git remote add origin https://github.com/PragmatechGroups/Squad-04
-
+hello
+how are u
