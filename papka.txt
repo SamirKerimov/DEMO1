@@ -1,0 +1,4 @@
+salammuellim.txt
+git add .
+git commit -m "yeni"
+git push -u
