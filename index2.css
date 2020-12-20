@@ -1,17 +1,17 @@
 #header {
-    width: 800px;
+    width: 700px;
     height: 200px;
     background-color: blue;
 }
 
 #slider {
-    width: 800px;
+    width: 700px;
     height: 200px;
     background-color: red;
 }
 
 #featured-content {
-    width: 800px;
+    width: 700px;
     height: 200px;
     background-color: green;
 } 
