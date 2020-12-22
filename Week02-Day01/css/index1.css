@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+
+}
+
+#courses{}
+    .course-container{
+        margin: 50px;
+        display: inline-block;
+        width: 800px;
+
+    }
+   
+    .course-container-header{
+        height: 100px;
+        background-color: red;
+    }
+    .course-container-body{
+        height: 200px;
+        background-color: green;
+    }
+    .course-container-footer{
+        height: 100px;
+        background-color: yellow;
+    }
+    .course-container-footer1{
+        height: 100px;
+        background-color:blue;
+    }
+
+    }
+
+
