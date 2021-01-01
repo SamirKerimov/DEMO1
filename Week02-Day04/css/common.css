@@ -81,3 +81,43 @@ body {
     background: green;
     color: black;
 }
+
+/* buttons */
+
+.btn {
+    padding: 10px 10px;
+    transition: all .3s ease;
+    cursor: pointer;
+}
+.btn-border {
+    border: 1px solid rgba(26, 11, 110, 0.281);
+}
+.btn-radius {
+    border-radius: 10px;
+}
+.btn-first {
+    background: darkblue;
+    color: white;
+}
+.btn-first:hover {
+    background: white;
+    color: darkblue;
+}
+.btn-second {
+    background: yellow;
+    color: darkblue;
+}
+.btn-second:hover {
+    background: darkblue;
+    color: yellow;
+
+}
+.btn-third {
+    background: green;
+    color: black;
+}
+.btn-third {
+    background: black;
+    color: green;
+
+}
