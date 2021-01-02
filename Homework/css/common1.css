@@ -108,23 +108,31 @@ p {
 .col-4 {
     width: 830px;
     margin: 5px;
-    padding: 175px;
-    height: 200px;
+    /* padding: 175px; */
+    height: 530px;
     border: 1px solid blue;
     display: flex;
+    justify-content: space-between;
 
 
 }
 .boyuk {
-    width: 500px;
-    height: 530px;
-    margin: -166px;
+    width: 480px;
+    height: 320px;
+    margin: 5px;
     border: 1px solid red;
 }
 .balaca {
+    margin: 5px;
     width: 200px; 
-    height: 200px;
+    height: 520px;
     border: 1px solid red;
+}
+.col-05 {
+    height: 160px;
+    width: 180px;
+    border: 1px solid black;
+    margin: 5px;
 }
 
 
