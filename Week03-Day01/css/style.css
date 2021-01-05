@@ -1,0 +1,36 @@
+body {
+    margin: 0px; 
+}
+.container {
+    width: 1200px;
+    height: 500px;
+    border: 1px solid red;
+    justify-content: center;
+    display: flex;
+   
+
+}
+.container-full {
+    width: 100%;
+}
+.col-1 {
+    width: 200px;
+    height: 200px; 
+    border: 1px solid black;
+    margin: 5px auto;
+    box-sizing: border-box;
+}
+.col-2 {
+    width: 200px;
+    height: 200px; 
+    border: 1px solid black;
+    margin: 5px auto;
+    box-sizing: border-box;
+}
+.col-3 {
+    width: 200px;
+    height: 200px; 
+    border: 1px solid black;
+    margin: 5px auto;
+    box-sizing: border-box;
+}
